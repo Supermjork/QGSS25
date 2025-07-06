@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "76285820738c21f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0bb51b4fd63f36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "918927f2299370f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/states/ghz-state.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ghz-state"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0af1388f6783cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc6a35e65cafeb68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d80dd0769fb58884",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9c2c1191a481a9c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "56101757dfdf8bc0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "01a4515d5c59dcfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "36660ceb5809d18e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad8578332aa82865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "notes/states/ghz-state.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ghz-state"
+            }
+          },
+          {
+            "id": "e94eb7155e069c5c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "notes/states/ghz-state.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ghz-state"
+            }
+          },
+          {
+            "id": "ad27b7f73eeae4fa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3fbb4badae63a0bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "notes/states/ghz-state.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ghz-state"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d80dd0769fb58884",
+  "lastOpenFiles": [
+    "assets/images/330px-The_quantum_logic_gates_that_generates_the_3-qubit_GHZ_state.png",
+    "notes/states/bell-state.md",
+    "notes/states/ghz-state.md",
+    "labs/lab0.ipynb",
+    "notes/gates/hadamard.md",
+    "notes/gates/cnot.md",
+    "assets/images",
+    "assets",
+    "assets/images/tikz-4ea5f21e5b5e31ec473a758c7f559f118ce88a52-2409881650.png",
+    "notes/states",
+    "notes/gates",
+    "notes/Untitled.md",
+    "[hadamard].md",
+    "[[hadamard]].md"
+  ]
+}
