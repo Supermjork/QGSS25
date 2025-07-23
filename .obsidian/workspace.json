@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/states/ghz-state.md",
+                "file": "Exemption Papers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ghz-state"
+              "title": "Exemption Papers"
             }
           }
         ]
@@ -168,20 +168,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d80dd0769fb58884",
+  "active": "918927f2299370f9",
   "lastOpenFiles": [
+    "notes/Backends.md",
+    "Exemption Papers.md",
+    "notes/CouplingMap.md",
+    "notes/gates/HGate.md",
+    "notes/gates/CNOT.md",
+    "notes/gates/PhaseGate.md",
+    "notes/gates/SGate.md",
+    "notes/gates/RXGate.md",
+    "notes/states/ghz-state.md",
     "assets/images/330px-The_quantum_logic_gates_that_generates_the_3-qubit_GHZ_state.png",
     "notes/states/bell-state.md",
-    "notes/states/ghz-state.md",
     "labs/lab0.ipynb",
-    "notes/gates/hadamard.md",
-    "notes/gates/cnot.md",
     "assets/images",
     "assets",
     "assets/images/tikz-4ea5f21e5b5e31ec473a758c7f559f118ce88a52-2409881650.png",
     "notes/states",
     "notes/gates",
-    "notes/Untitled.md",
     "[hadamard].md",
     "[[hadamard]].md"
   ]
